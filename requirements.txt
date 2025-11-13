@@ -1,0 +1,9 @@
+docling>=1.3.0
+sentence-transformers>=2.7.0
+rank-bm25>=0.2.2
+numpy>=1.24.0
+nltk>=3.8.1
+groq>=0.9.0
+langgraph>=0.2.20
+networkx>=3.2.1
+Pillow>=10.0.0
